@@ -6,7 +6,7 @@ package code.forces;
 public class App {
 
     public static void main(String[] args) {
-        Watermelon watermelon = new Watermelon();
-        watermelon.watermelon();
+        WayTooLongWords obj = new WayTooLongWords();
+        obj.wayTooLongWords();
     }
 }
