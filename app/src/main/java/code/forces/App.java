@@ -3,10 +3,13 @@
  */
 package code.forces;
 
+import java.util.Scanner;
+
 public class App {
 
     public static void main(String[] args) {
-        WayTooLongWords obj = new WayTooLongWords();
-        obj.wayTooLongWords();
+        var obj = new Team();
+        System.out.println(obj.team());
     }
+
 }
